@@ -1,7 +1,7 @@
 # Elysia with Bun runtime
 
 ## Learning Path
-Interactive Tutorial in [Elysiajs](https://elysiajs.com/tutorial/getting-started) Website is a good one for learning elysia
+Interactive Tutorial in [Elysiajs](https://elysiajs.com/tutorial/) Website is a good one for learning elysia
 
 ## Getting Started
 To get started with this template, simply paste this command into your terminal:
